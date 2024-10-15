@@ -25,3 +25,8 @@ else:
     voz_cheloveka2 = voz_cheloveka - 2
     voz_sobaki = voz_cheloveka2 * 4 + 21
     print(voz_sobaki)
+
+"""
+1 год считает неправильно
+
+"""

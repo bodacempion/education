@@ -7,3 +7,9 @@ elif one_ygol == two_ygol >= three_ygol or one_ygol == two_ygol <= three_ygol or
     print("треугольник равнобедренный")
 else:
     print("треугольник разносторонний")
+
+"""
+Работает.
+Только это не углы, а стороны)
+Мы вводим длину сторон
+"""
